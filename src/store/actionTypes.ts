@@ -1,3 +1,0 @@
-export const ADD_PARTICIPANT = "ADD_PARTCIPANT";
-export const REMOVE_PARTICIPANT = "REMOVE_PARTCIPANT";
-export const SET_USER = "SET_USER";
